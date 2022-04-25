@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="600px" height="1400px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+
+    <g name="a1">
+        <rect x="20" y="20" rx="20" ry="20" width="100" fill="rgb(219,159,0)" stroke="#000000" height="100" />
+    </g>
+    <g name="a2">
+        <rect x="20" y="120" rx="20" ry="20" width="100" fill="rgb(219,133,0)" stroke="#000000" height="100" />
+    </g>
+    <g name="a3">
+        <rect x="20" y="220" rx="20" ry="20" width="100" fill="rgb(219,146,0)" stroke="#000000" height="100" />
+    </g>
+    <g name="a4">
+        <rect x="20" y="320" rx="20" ry="20" width="100" fill="rgb(219,120,0)" stroke="#000000" height="100" />
+    </g>
+    <g name="a5">
+        <rect x="20" y="420" rx="20" ry="20" width="100" fill="rgb(211,35,0)" stroke="#000000" height="100" />
+    </g>
+    <g name="a6">
+        <rect x="20" y="520" rx="20" ry="20" width="100" fill="rgb(218,104,0)" stroke="#000000" height="100" />
+    </g>
+    <g name="a7">
+        <rect x="20" y="620" rx="20" ry="20" width="100" fill="rgb(216,81,0)" stroke="#000000" height="100" />
+    </g>
+    <g name="a8">
+        <rect x="20" y="720" rx="20" ry="20" width="100" fill="rgb(213,58,0)" stroke="#000000" height="100" />
+    </g>
+    <g name="a9">
+        <rect x="20" y="820" rx="20" ry="20" width="100" fill="rgb(216,81,0)" stroke="#000000" height="100" />
+    </g>
+    <g name="a10">
+        <rect x="20" y="920" rx="20" ry="20" width="100" fill="rgb(208,12,0)" stroke="#000000" height="100" />
+    </g>
+    <g name="a11">
+        <rect x="20" y="1020" rx="20" ry="20" width="100" fill="rgb(219,159,0)" stroke="#000000" height="100" />
+    </g>
+    <g name="a12">
+        <rect x="20" y="1120" rx="20" ry="20" width="100" fill="rgb(219,120,0)" stroke="#000000" height="100" />
+    </g>
+</svg>
