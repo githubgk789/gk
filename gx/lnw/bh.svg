@@ -1,0 +1,3356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg3566"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="bh.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3568"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.54252946"
+     inkscape:cx="397.21345"
+     inkscape:cy="562.18145"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3563">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3586">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3584" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3596">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3594" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3608">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3606" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3616">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3614" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3628">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3626" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3636">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3634" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3648">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3646" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3656">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3654" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3668">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3666" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3676">
+      <path
+         d="m 137.95,753.75 h 88 v 15.1 h -88 z"
+         id="path3674" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3684">
+      <path
+         d="m 137.95,753.75 h 88 v 15.1 h -88 z"
+         id="path3682" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3696">
+      <path
+         d="m 137.95,753.75 h 88 v 15.1 h -88 z"
+         id="path3694" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3704">
+      <path
+         d="m 137.95,753.75 h 88 v 15.1 h -88 z"
+         id="path3702" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3716">
+      <path
+         d="m 137.95,753.75 h 88 v 15.1 h -88 z"
+         id="path3714" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3724">
+      <path
+         d="m 137.95,753.75 h 88 v 15.1 h -88 z"
+         id="path3722" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3736">
+      <path
+         d="m 137.95,753.75 h 88 v 15.1 h -88 z"
+         id="path3734" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3744">
+      <path
+         d="m 137.95,753.75 h 88 v 15.1 h -88 z"
+         id="path3742" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3756">
+      <path
+         d="m 137.95,753.75 h 88 v 15.1 h -88 z"
+         id="path3754" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3764">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3762" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3772">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3770" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3784">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3782" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3806">
+      <path
+         d="m 137.95,737.65 h 88 v 15.1 h -88 z"
+         id="path3804" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3814">
+      <path
+         d="m 137.95,737.65 h 88 v 15.1 h -88 z"
+         id="path3812" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3826">
+      <path
+         d="m 137.95,737.65 h 88 v 15.1 h -88 z"
+         id="path3824" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3834">
+      <path
+         d="m 137.95,737.65 h 88 v 15.1 h -88 z"
+         id="path3832" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3846">
+      <path
+         d="m 137.95,737.65 h 88 v 15.1 h -88 z"
+         id="path3844" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3854">
+      <path
+         d="m 137.95,737.65 h 88 v 15.1 h -88 z"
+         id="path3852" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3866">
+      <path
+         d="m 137.95,737.65 h 88 v 15.1 h -88 z"
+         id="path3864" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3874">
+      <path
+         d="m 137.95,737.65 h 88 v 15.1 h -88 z"
+         id="path3872" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3886">
+      <path
+         d="m 137.95,737.65 h 88 v 15.1 h -88 z"
+         id="path3884" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3894">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3892" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3902">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3900" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3914">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3912" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3936">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3934" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3948">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3946" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3956">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3954" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3968">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3966" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3976">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3974" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3988">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3986" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3996">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path3994" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4008">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4006" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4016">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4014" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4028">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4026" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4050">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4048" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4062">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4060" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4070">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4068" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4082">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4080" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4104">
+      <path
+         d="m 137.95,689.35 h 88 v 15.1 h -88 z"
+         id="path4102" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4112">
+      <path
+         d="m 137.95,689.35 h 88 v 15.1 h -88 z"
+         id="path4110" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4124">
+      <path
+         d="m 137.95,689.35 h 88 v 15.1 h -88 z"
+         id="path4122" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4132">
+      <path
+         d="m 137.95,689.35 h 88 v 15.1 h -88 z"
+         id="path4130" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4144">
+      <path
+         d="m 137.95,689.35 h 88 v 15.1 h -88 z"
+         id="path4142" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4152">
+      <path
+         d="m 137.95,689.35 h 88 v 15.1 h -88 z"
+         id="path4150" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4164">
+      <path
+         d="m 137.95,689.35 h 88 v 15.1 h -88 z"
+         id="path4162" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4172">
+      <path
+         d="m 137.95,689.35 h 88 v 15.1 h -88 z"
+         id="path4170" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4184">
+      <path
+         d="m 137.95,689.35 h 88 v 15.1 h -88 z"
+         id="path4182" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4192">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4190" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4200">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4198" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4212">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4210" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4234">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4232" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4246">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4244" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4254">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4252" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4266">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4264" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4274">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4272" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4286">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4284" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4294">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4292" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4306">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4304" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4314">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4312" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4326">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4324" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4348">
+      <path
+         d="m 137.95,657.15 h 88 v 15.1 h -88 z"
+         id="path4346" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4356">
+      <path
+         d="m 137.95,657.15 h 88 v 15.1 h -88 z"
+         id="path4354" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4368">
+      <path
+         d="m 137.95,657.15 h 88 v 15.1 h -88 z"
+         id="path4366" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4376">
+      <path
+         d="m 137.95,657.15 h 88 v 15.1 h -88 z"
+         id="path4374" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4388">
+      <path
+         d="m 137.95,657.15 h 88 v 15.1 h -88 z"
+         id="path4386" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4396">
+      <path
+         d="m 137.95,657.15 h 88 v 15.1 h -88 z"
+         id="path4394" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4408">
+      <path
+         d="m 137.95,657.15 h 88 v 15.1 h -88 z"
+         id="path4406" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4416">
+      <path
+         d="m 137.95,657.15 h 88 v 15.1 h -88 z"
+         id="path4414" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4428">
+      <path
+         d="m 137.95,657.15 h 88 v 15.1 h -88 z"
+         id="path4426" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4436">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4434" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4444">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4442" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4456">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4454" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4478">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4476" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4490">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4488" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4498">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4496" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4510">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4508" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4532">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4530" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4544">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4542" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4552">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4550" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4564">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4562" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4586">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4584" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4598">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4596" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4606">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4604" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4618">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4616" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4626">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4624" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4638">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4636" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4646">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4644" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4658">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4656" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4666">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4664" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4678">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4676" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4700">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4698" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4712">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4710" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4720">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4718" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4732">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4730" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4754">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4752" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4766">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4764" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4774">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4772" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4786">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4784" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4808">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4806" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4820">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4818" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4828">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4826" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4840">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4838" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4862">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4860" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4874">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4872" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4882">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4880" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4894">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4892" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4902">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4900" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4914">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4912" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4922">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4920" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4934">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4932" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4942">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4940" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4954">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4952" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4976">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4974" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4988">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4986" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4996">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path4994" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5008">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5006" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5030">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5028" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5042">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5040" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5050">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5048" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5062">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5060" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5084">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5082" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5096">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5094" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5104">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5102" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5116">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5114" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5138">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5136" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5150">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5148" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5158">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5156" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5170">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5168" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5192">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5190" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5204">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5202" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5212">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5210" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5224">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5222" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5246">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5244" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5258">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5256" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5266">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5264" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5278">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5276" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5300">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5298" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5312">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5310" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5320">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5318" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5332">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5330" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5354">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5352" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5366">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5364" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5374">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5372" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5386">
+      <path
+         d="m 55.7,413.95 h 228.75 v 371.7 H 55.7 Z"
+         id="path5384" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3576"
+       inkscape:label="bh"
+       transform="matrix(0.35277777,0,0,-0.35277777,46.989487,280.54487)">
+      <g
+         id="g3578" />
+      <g
+         id="g3580">
+        <g
+           id="g3582"
+           clip-path="url(#clipPath3586)">
+          <path
+             d="M 56.7,785.3 H 282.45 V 769.35 H 56.7"
+             style="fill:#474747;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3588" />
+        </g>
+      </g>
+      <g
+         id="g3590">
+        <g
+           id="g3592"
+           clip-path="url(#clipPath3596)">
+          <text
+             transform="matrix(1,0,0,-1,72.8,773.25)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3600"><tspan
+               x="0 12 24 36"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3598">高校名称</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3602">
+        <g
+           id="g3604"
+           clip-path="url(#clipPath3608)" />
+      </g>
+      <g
+         id="g3610">
+        <g
+           id="g3612"
+           clip-path="url(#clipPath3616)">
+          <text
+             transform="matrix(1,0,0,-1,157.95,773.25)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3620"><tspan
+               x="0 12 24 36"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3618">专业名称</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3622">
+        <g
+           id="g3624"
+           clip-path="url(#clipPath3628)" />
+      </g>
+      <g
+         id="g3630">
+        <g
+           id="g3632"
+           clip-path="url(#clipPath3636)">
+          <text
+             transform="matrix(1,0,0,-1,236.7,773.25)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3640"><tspan
+               x="0 12 24"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3638">最低分</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3642">
+        <g
+           id="g3644"
+           clip-path="url(#clipPath3648)" />
+      </g>
+      <g
+         id="g3650">
+        <g
+           id="g3652"
+           clip-path="url(#clipPath3656)">
+          <text
+             transform="matrix(1,0,0,-1,72.8,757.15)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3660"><tspan
+               x="0 12 24 36"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3658">渤海大学</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3662">
+        <g
+           id="g3664"
+           clip-path="url(#clipPath3668)" />
+      </g>
+      <g
+         id="g3670">
+        <g
+           id="g3672"
+           clip-path="url(#clipPath3676)" />
+      </g>
+      <g
+         id="g3678">
+        <g
+           id="g3680"
+           clip-path="url(#clipPath3684)">
+          <text
+             transform="matrix(1,0,0,-1,138.95,757.15)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3688"><tspan
+               x="0 12 24 36 48 60"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3686">汉语国际教育</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3690">
+        <g
+           id="g3692"
+           clip-path="url(#clipPath3696)" />
+      </g>
+      <g
+         id="g3698">
+        <g
+           id="g3700"
+           clip-path="url(#clipPath3704)">
+          <text
+             transform="matrix(1,0,0,-1,210.95,757.15)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3708"><tspan
+               x="0"
+               y="0"
+               id="tspan3706">(</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3710">
+        <g
+           id="g3712"
+           clip-path="url(#clipPath3716)" />
+      </g>
+      <g
+         id="g3718">
+        <g
+           id="g3720"
+           clip-path="url(#clipPath3724)">
+          <text
+             transform="matrix(1,0,0,-1,214.95,757.15)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3728"><tspan
+               x="0 12"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3726">师范</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3730">
+        <g
+           id="g3732"
+           clip-path="url(#clipPath3736)" />
+      </g>
+      <g
+         id="g3738">
+        <g
+           id="g3740"
+           clip-path="url(#clipPath3744)">
+          <text
+             transform="matrix(1,0,0,-1,238.95,757.15)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3748"><tspan
+               x="0"
+               y="0"
+               id="tspan3746">)</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3750">
+        <g
+           id="g3752"
+           clip-path="url(#clipPath3756)" />
+      </g>
+      <g
+         id="g3758">
+        <g
+           id="g3760"
+           clip-path="url(#clipPath3764)" />
+      </g>
+      <g
+         id="g3766">
+        <g
+           id="g3768"
+           clip-path="url(#clipPath3772)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,757.15)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3776"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3774">560</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3778">
+        <g
+           id="g3780"
+           clip-path="url(#clipPath3784)">
+          <path
+             d="M 56.45,785.55 H 56.9 V 768.9 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3786" />
+          <path
+             d="M 56.45,785.55 H 137.4 V 785.1 H 56.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3788" />
+          <path
+             d="m 136.45,785.05 h 0.95 V 768.9 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3790" />
+          <path
+             d="M 136.45,785.55 H 227.4 V 785.1 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3792" />
+          <path
+             d="m 226.45,785.05 h 0.95 V 768.9 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3794" />
+          <path
+             d="m 226.45,785.55 h 56.2 v -0.45 h -56.2"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3796" />
+          <path
+             d="m 282.2,785.55 h 0.45 V 768.9 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3798" />
+        </g>
+      </g>
+      <g
+         id="g3800">
+        <g
+           id="g3802"
+           clip-path="url(#clipPath3806)" />
+      </g>
+      <g
+         id="g3808">
+        <g
+           id="g3810"
+           clip-path="url(#clipPath3814)">
+          <text
+             transform="matrix(1,0,0,-1,138.95,741.05)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3818"><tspan
+               x="0 12 24 36 48"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3816">汉语言文学</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3820">
+        <g
+           id="g3822"
+           clip-path="url(#clipPath3826)" />
+      </g>
+      <g
+         id="g3828">
+        <g
+           id="g3830"
+           clip-path="url(#clipPath3834)">
+          <text
+             transform="matrix(1,0,0,-1,198.95,741.05)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3838"><tspan
+               x="0"
+               y="0"
+               id="tspan3836">(</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3840">
+        <g
+           id="g3842"
+           clip-path="url(#clipPath3846)" />
+      </g>
+      <g
+         id="g3848">
+        <g
+           id="g3850"
+           clip-path="url(#clipPath3854)">
+          <text
+             transform="matrix(1,0,0,-1,202.95,741.05)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3858"><tspan
+               x="0 12"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3856">师范</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3860">
+        <g
+           id="g3862"
+           clip-path="url(#clipPath3866)" />
+      </g>
+      <g
+         id="g3868">
+        <g
+           id="g3870"
+           clip-path="url(#clipPath3874)">
+          <text
+             transform="matrix(1,0,0,-1,226.95,741.05)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3878"><tspan
+               x="0"
+               y="0"
+               id="tspan3876">)</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3880">
+        <g
+           id="g3882"
+           clip-path="url(#clipPath3886)" />
+      </g>
+      <g
+         id="g3888">
+        <g
+           id="g3890"
+           clip-path="url(#clipPath3894)" />
+      </g>
+      <g
+         id="g3896">
+        <g
+           id="g3898"
+           clip-path="url(#clipPath3902)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,741.05)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3906"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3904">557</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3908">
+        <g
+           id="g3910"
+           clip-path="url(#clipPath3914)">
+          <path
+             d="M 56.45,769.85 H 56.9 V 752.8 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3916" />
+          <path
+             d="M 56.95,769.85 H 137.4 V 768.9 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3918" />
+          <path
+             d="m 136.45,769.85 h 0.95 V 752.8 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3920" />
+          <path
+             d="M 136.45,769.85 H 227.4 V 768.9 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3922" />
+          <path
+             d="m 226.45,769.85 h 0.95 V 752.8 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3924" />
+          <path
+             d="m 226.45,769.85 h 55.7 v -0.95 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3926" />
+          <path
+             d="m 282.2,769.85 h 0.45 V 752.8 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3928" />
+        </g>
+      </g>
+      <g
+         id="g3930">
+        <g
+           id="g3932"
+           clip-path="url(#clipPath3936)">
+          <text
+             transform="matrix(1,0,0,-1,153.95,724.95)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3940"><tspan
+               x="0 12"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3938">英语</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3942">
+        <g
+           id="g3944"
+           clip-path="url(#clipPath3948)" />
+      </g>
+      <g
+         id="g3950">
+        <g
+           id="g3952"
+           clip-path="url(#clipPath3956)">
+          <text
+             transform="matrix(1,0,0,-1,177.95,724.95)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3960"><tspan
+               x="0"
+               y="0"
+               id="tspan3958">(</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3962">
+        <g
+           id="g3964"
+           clip-path="url(#clipPath3968)" />
+      </g>
+      <g
+         id="g3970">
+        <g
+           id="g3972"
+           clip-path="url(#clipPath3976)">
+          <text
+             transform="matrix(1,0,0,-1,181.95,724.95)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text3980"><tspan
+               x="0 12"
+               y="0"
+               sodipodi:role="line"
+               id="tspan3978">师范</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3982">
+        <g
+           id="g3984"
+           clip-path="url(#clipPath3988)" />
+      </g>
+      <g
+         id="g3990">
+        <g
+           id="g3992"
+           clip-path="url(#clipPath3996)">
+          <text
+             transform="matrix(1,0,0,-1,205.95,724.95)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4000"><tspan
+               x="0"
+               y="0"
+               id="tspan3998">)</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4002">
+        <g
+           id="g4004"
+           clip-path="url(#clipPath4008)" />
+      </g>
+      <g
+         id="g4010">
+        <g
+           id="g4012"
+           clip-path="url(#clipPath4016)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,724.95)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4020"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4018">550</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4022">
+        <g
+           id="g4024"
+           clip-path="url(#clipPath4028)">
+          <path
+             d="M 56.45,753.75 H 56.9 V 736.7 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4030" />
+          <path
+             d="M 56.95,753.75 H 137.4 V 752.8 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4032" />
+          <path
+             d="m 136.45,753.75 h 0.95 V 736.7 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4034" />
+          <path
+             d="M 136.45,753.75 H 227.4 V 752.8 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4036" />
+          <path
+             d="m 226.45,753.75 h 0.95 V 736.7 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4038" />
+          <path
+             d="m 226.45,753.75 h 55.7 v -0.95 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4040" />
+          <path
+             d="m 282.2,753.75 h 0.45 V 736.7 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4042" />
+        </g>
+      </g>
+      <g
+         id="g4044">
+        <g
+           id="g4046"
+           clip-path="url(#clipPath4050)">
+          <text
+             transform="matrix(1,0,0,-1,163.95,708.85)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4054"><tspan
+               x="0 12 24"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4052">会计学</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4056">
+        <g
+           id="g4058"
+           clip-path="url(#clipPath4062)" />
+      </g>
+      <g
+         id="g4064">
+        <g
+           id="g4066"
+           clip-path="url(#clipPath4070)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,708.85)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4074"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4072">546</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4076">
+        <g
+           id="g4078"
+           clip-path="url(#clipPath4082)">
+          <path
+             d="M 56.45,737.65 H 56.9 V 720.6 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4084" />
+          <path
+             d="M 56.95,737.65 H 137.4 V 736.7 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4086" />
+          <path
+             d="m 136.45,737.65 h 0.95 V 720.6 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4088" />
+          <path
+             d="M 136.45,737.65 H 227.4 V 736.7 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4090" />
+          <path
+             d="m 226.45,737.65 h 0.95 V 720.6 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4092" />
+          <path
+             d="m 226.45,737.65 h 55.7 v -0.95 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4094" />
+          <path
+             d="m 282.2,737.65 h 0.45 V 720.6 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4096" />
+        </g>
+      </g>
+      <g
+         id="g4098">
+        <g
+           id="g4100"
+           clip-path="url(#clipPath4104)" />
+      </g>
+      <g
+         id="g4106">
+        <g
+           id="g4108"
+           clip-path="url(#clipPath4112)">
+          <text
+             transform="matrix(1,0,0,-1,138.95,692.75)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4116"><tspan
+               x="0 12 24 36 48 60"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4114">汉语国际教育</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4118">
+        <g
+           id="g4120"
+           clip-path="url(#clipPath4124)" />
+      </g>
+      <g
+         id="g4126">
+        <g
+           id="g4128"
+           clip-path="url(#clipPath4132)">
+          <text
+             transform="matrix(1,0,0,-1,210.95,692.75)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4136"><tspan
+               x="0"
+               y="0"
+               id="tspan4134">(</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4138">
+        <g
+           id="g4140"
+           clip-path="url(#clipPath4144)" />
+      </g>
+      <g
+         id="g4146">
+        <g
+           id="g4148"
+           clip-path="url(#clipPath4152)">
+          <text
+             transform="matrix(1,0,0,-1,214.95,692.75)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4156"><tspan
+               x="0 12"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4154">师范</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4158">
+        <g
+           id="g4160"
+           clip-path="url(#clipPath4164)" />
+      </g>
+      <g
+         id="g4166">
+        <g
+           id="g4168"
+           clip-path="url(#clipPath4172)">
+          <text
+             transform="matrix(1,0,0,-1,238.95,692.75)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4176"><tspan
+               x="0"
+               y="0"
+               id="tspan4174">)</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4178">
+        <g
+           id="g4180"
+           clip-path="url(#clipPath4184)" />
+      </g>
+      <g
+         id="g4186">
+        <g
+           id="g4188"
+           clip-path="url(#clipPath4192)" />
+      </g>
+      <g
+         id="g4194">
+        <g
+           id="g4196"
+           clip-path="url(#clipPath4200)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,692.75)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4204"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4202">545</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4206">
+        <g
+           id="g4208"
+           clip-path="url(#clipPath4212)">
+          <path
+             d="M 56.45,721.55 H 56.9 V 704.5 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4214" />
+          <path
+             d="M 56.95,721.55 H 137.4 V 720.6 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4216" />
+          <path
+             d="m 136.45,721.55 h 0.95 V 704.5 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4218" />
+          <path
+             d="M 136.45,721.55 H 227.4 V 720.6 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4220" />
+          <path
+             d="m 226.45,721.55 h 0.95 V 704.5 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4222" />
+          <path
+             d="m 226.45,721.55 h 55.7 v -0.95 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4224" />
+          <path
+             d="m 282.2,721.55 h 0.45 V 704.5 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4226" />
+        </g>
+      </g>
+      <g
+         id="g4228">
+        <g
+           id="g4230"
+           clip-path="url(#clipPath4234)">
+          <text
+             transform="matrix(1,0,0,-1,147.95,676.65)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4238"><tspan
+               x="0 12 24"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4236">历史学</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4240">
+        <g
+           id="g4242"
+           clip-path="url(#clipPath4246)" />
+      </g>
+      <g
+         id="g4248">
+        <g
+           id="g4250"
+           clip-path="url(#clipPath4254)">
+          <text
+             transform="matrix(1,0,0,-1,183.95,676.65)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4258"><tspan
+               x="0"
+               y="0"
+               id="tspan4256">(</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4260">
+        <g
+           id="g4262"
+           clip-path="url(#clipPath4266)" />
+      </g>
+      <g
+         id="g4268">
+        <g
+           id="g4270"
+           clip-path="url(#clipPath4274)">
+          <text
+             transform="matrix(1,0,0,-1,187.95,676.65)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4278"><tspan
+               x="0 12"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4276">师范</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4280">
+        <g
+           id="g4282"
+           clip-path="url(#clipPath4286)" />
+      </g>
+      <g
+         id="g4288">
+        <g
+           id="g4290"
+           clip-path="url(#clipPath4294)">
+          <text
+             transform="matrix(1,0,0,-1,211.95,676.65)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4298"><tspan
+               x="0"
+               y="0"
+               id="tspan4296">)</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4300">
+        <g
+           id="g4302"
+           clip-path="url(#clipPath4306)" />
+      </g>
+      <g
+         id="g4308">
+        <g
+           id="g4310"
+           clip-path="url(#clipPath4314)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,676.65)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4318"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4316">543</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4320">
+        <g
+           id="g4322"
+           clip-path="url(#clipPath4326)">
+          <path
+             d="M 56.45,705.45 H 56.9 V 688.4 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4328" />
+          <path
+             d="M 56.95,705.45 H 137.4 V 704.5 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4330" />
+          <path
+             d="m 136.45,705.45 h 0.95 V 688.4 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4332" />
+          <path
+             d="M 136.45,705.45 H 227.4 V 704.5 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4334" />
+          <path
+             d="m 226.45,705.45 h 0.95 V 688.4 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4336" />
+          <path
+             d="m 226.45,705.45 h 55.7 v -0.95 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4338" />
+          <path
+             d="m 282.2,705.45 h 0.45 V 688.4 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4340" />
+        </g>
+      </g>
+      <g
+         id="g4342">
+        <g
+           id="g4344"
+           clip-path="url(#clipPath4348)" />
+      </g>
+      <g
+         id="g4350">
+        <g
+           id="g4352"
+           clip-path="url(#clipPath4356)">
+          <text
+             transform="matrix(1,0,0,-1,138.95,660.55)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4360"><tspan
+               x="0 12 24 36 48 60"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4358">思想政治教育</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4362">
+        <g
+           id="g4364"
+           clip-path="url(#clipPath4368)" />
+      </g>
+      <g
+         id="g4370">
+        <g
+           id="g4372"
+           clip-path="url(#clipPath4376)">
+          <text
+             transform="matrix(1,0,0,-1,210.95,660.55)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4380"><tspan
+               x="0"
+               y="0"
+               id="tspan4378">(</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4382">
+        <g
+           id="g4384"
+           clip-path="url(#clipPath4388)" />
+      </g>
+      <g
+         id="g4390">
+        <g
+           id="g4392"
+           clip-path="url(#clipPath4396)">
+          <text
+             transform="matrix(1,0,0,-1,214.95,660.55)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4400"><tspan
+               x="0 12"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4398">师范</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4402">
+        <g
+           id="g4404"
+           clip-path="url(#clipPath4408)" />
+      </g>
+      <g
+         id="g4410">
+        <g
+           id="g4412"
+           clip-path="url(#clipPath4416)">
+          <text
+             transform="matrix(1,0,0,-1,238.95,660.55)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4420"><tspan
+               x="0"
+               y="0"
+               id="tspan4418">)</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4422">
+        <g
+           id="g4424"
+           clip-path="url(#clipPath4428)" />
+      </g>
+      <g
+         id="g4430">
+        <g
+           id="g4432"
+           clip-path="url(#clipPath4436)" />
+      </g>
+      <g
+         id="g4438">
+        <g
+           id="g4440"
+           clip-path="url(#clipPath4444)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,660.55)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4448"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4446">542</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4450">
+        <g
+           id="g4452"
+           clip-path="url(#clipPath4456)">
+          <path
+             d="M 56.45,689.35 H 56.9 V 672.3 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4458" />
+          <path
+             d="M 56.95,689.35 H 137.4 V 688.4 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4460" />
+          <path
+             d="m 136.45,689.35 h 0.95 V 672.3 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4462" />
+          <path
+             d="M 136.45,689.35 H 227.4 V 688.4 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4464" />
+          <path
+             d="m 226.45,689.35 h 0.95 V 672.3 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4466" />
+          <path
+             d="m 226.45,689.35 h 55.7 v -0.95 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4468" />
+          <path
+             d="m 282.2,689.35 h 0.45 V 672.3 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4470" />
+        </g>
+      </g>
+      <g
+         id="g4472">
+        <g
+           id="g4474"
+           clip-path="url(#clipPath4478)">
+          <text
+             transform="matrix(1,0,0,-1,163.95,644.45)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4482"><tspan
+               x="0 12 24"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4480">金融学</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4484">
+        <g
+           id="g4486"
+           clip-path="url(#clipPath4490)" />
+      </g>
+      <g
+         id="g4492">
+        <g
+           id="g4494"
+           clip-path="url(#clipPath4498)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,644.45)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4502"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4500">539</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4504">
+        <g
+           id="g4506"
+           clip-path="url(#clipPath4510)">
+          <path
+             d="M 56.45,673.25 H 56.9 V 656.2 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4512" />
+          <path
+             d="M 56.95,673.25 H 137.4 V 672.3 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4514" />
+          <path
+             d="m 136.45,673.25 h 0.95 V 656.2 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4516" />
+          <path
+             d="M 136.45,673.25 H 227.4 V 672.3 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4518" />
+          <path
+             d="m 226.45,673.25 h 0.95 V 656.2 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4520" />
+          <path
+             d="m 226.45,673.25 h 55.7 v -0.95 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4522" />
+          <path
+             d="m 282.2,673.25 h 0.45 V 656.2 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4524" />
+        </g>
+      </g>
+      <g
+         id="g4526">
+        <g
+           id="g4528"
+           clip-path="url(#clipPath4532)">
+          <text
+             transform="matrix(1,0,0,-1,169.95,628.35)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4536"><tspan
+               x="0 12"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4534">法学</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4538">
+        <g
+           id="g4540"
+           clip-path="url(#clipPath4544)" />
+      </g>
+      <g
+         id="g4546">
+        <g
+           id="g4548"
+           clip-path="url(#clipPath4552)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,628.35)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4556"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4554">539</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4558">
+        <g
+           id="g4560"
+           clip-path="url(#clipPath4564)">
+          <path
+             d="M 56.45,657.15 H 56.9 V 640.1 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4566" />
+          <path
+             d="M 56.95,657.15 H 137.4 V 656.2 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4568" />
+          <path
+             d="m 136.45,657.15 h 0.95 V 640.1 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4570" />
+          <path
+             d="M 136.45,657.15 H 227.4 V 656.2 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4572" />
+          <path
+             d="m 226.45,657.15 h 0.95 V 640.1 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4574" />
+          <path
+             d="m 226.45,657.15 h 55.7 v -0.95 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4576" />
+          <path
+             d="m 282.2,657.15 h 0.45 V 640.1 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4578" />
+        </g>
+      </g>
+      <g
+         id="g4580">
+        <g
+           id="g4582"
+           clip-path="url(#clipPath4586)">
+          <text
+             transform="matrix(1,0,0,-1,141.95,612.25)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4590"><tspan
+               x="0 12 24 36"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4588">小学教育</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4592">
+        <g
+           id="g4594"
+           clip-path="url(#clipPath4598)" />
+      </g>
+      <g
+         id="g4600">
+        <g
+           id="g4602"
+           clip-path="url(#clipPath4606)">
+          <text
+             transform="matrix(1,0,0,-1,189.95,612.25)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4610"><tspan
+               x="0"
+               y="0"
+               id="tspan4608">(</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4612">
+        <g
+           id="g4614"
+           clip-path="url(#clipPath4618)" />
+      </g>
+      <g
+         id="g4620">
+        <g
+           id="g4622"
+           clip-path="url(#clipPath4626)">
+          <text
+             transform="matrix(1,0,0,-1,193.95,612.25)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4630"><tspan
+               x="0 12"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4628">师范</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4632">
+        <g
+           id="g4634"
+           clip-path="url(#clipPath4638)" />
+      </g>
+      <g
+         id="g4640">
+        <g
+           id="g4642"
+           clip-path="url(#clipPath4646)">
+          <text
+             transform="matrix(1,0,0,-1,217.95,612.25)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4650"><tspan
+               x="0"
+               y="0"
+               id="tspan4648">)</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4652">
+        <g
+           id="g4654"
+           clip-path="url(#clipPath4658)" />
+      </g>
+      <g
+         id="g4660">
+        <g
+           id="g4662"
+           clip-path="url(#clipPath4666)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,612.25)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4670"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4668">539</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4672">
+        <g
+           id="g4674"
+           clip-path="url(#clipPath4678)">
+          <path
+             d="M 56.45,641.05 H 56.9 V 624 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4680" />
+          <path
+             d="M 56.95,641.05 H 137.4 V 640.1 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4682" />
+          <path
+             d="m 136.45,641.05 h 0.95 V 624 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4684" />
+          <path
+             d="M 136.45,641.05 H 227.4 V 640.1 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4686" />
+          <path
+             d="m 226.45,641.05 h 0.95 V 624 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4688" />
+          <path
+             d="m 226.45,641.05 h 55.7 v -0.95 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4690" />
+          <path
+             d="m 282.2,641.05 h 0.45 V 624 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4692" />
+        </g>
+      </g>
+      <g
+         id="g4694">
+        <g
+           id="g4696"
+           clip-path="url(#clipPath4700)">
+          <text
+             transform="matrix(1,0,0,-1,139.95,596.15)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4704"><tspan
+               x="0 12 24 36 48 60 72"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4702">文物与博物馆学</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4706">
+        <g
+           id="g4708"
+           clip-path="url(#clipPath4712)" />
+      </g>
+      <g
+         id="g4714">
+        <g
+           id="g4716"
+           clip-path="url(#clipPath4720)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,596.15)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4724"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4722">538</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4726">
+        <g
+           id="g4728"
+           clip-path="url(#clipPath4732)">
+          <path
+             d="M 56.45,624.95 H 56.9 V 607.9 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4734" />
+          <path
+             d="M 56.95,624.95 H 137.4 V 624 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4736" />
+          <path
+             d="m 136.45,624.95 h 0.95 V 607.9 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4738" />
+          <path
+             d="M 136.45,624.95 H 227.4 V 624 h -90.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4740" />
+          <path
+             d="m 226.45,624.95 h 0.95 V 607.9 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4742" />
+          <path
+             d="m 226.45,624.95 h 55.7 V 624 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4744" />
+          <path
+             d="m 282.2,624.95 h 0.45 V 607.9 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4746" />
+        </g>
+      </g>
+      <g
+         id="g4748">
+        <g
+           id="g4750"
+           clip-path="url(#clipPath4754)">
+          <text
+             transform="matrix(1,0,0,-1,157.95,580.05)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4758"><tspan
+               x="0 12 24 36"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4756">工商管理</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4760">
+        <g
+           id="g4762"
+           clip-path="url(#clipPath4766)" />
+      </g>
+      <g
+         id="g4768">
+        <g
+           id="g4770"
+           clip-path="url(#clipPath4774)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,580.05)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4778"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4776">536</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4780">
+        <g
+           id="g4782"
+           clip-path="url(#clipPath4786)">
+          <path
+             d="M 56.45,608.85 H 56.9 V 591.8 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4788" />
+          <path
+             d="M 56.95,608.85 H 137.4 V 607.9 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4790" />
+          <path
+             d="m 136.45,608.85 h 0.95 V 591.8 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4792" />
+          <path
+             d="M 136.45,608.85 H 227.4 V 607.9 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4794" />
+          <path
+             d="m 226.45,608.85 h 0.95 V 591.8 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4796" />
+          <path
+             d="m 226.45,608.85 h 55.7 v -0.95 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4798" />
+          <path
+             d="m 282.2,608.85 h 0.45 V 591.8 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4800" />
+        </g>
+      </g>
+      <g
+         id="g4802">
+        <g
+           id="g4804"
+           clip-path="url(#clipPath4808)">
+          <text
+             transform="matrix(1,0,0,-1,163.95,563.95)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4812"><tspan
+               x="0 12 24"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4810">经济学</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4814">
+        <g
+           id="g4816"
+           clip-path="url(#clipPath4820)" />
+      </g>
+      <g
+         id="g4822">
+        <g
+           id="g4824"
+           clip-path="url(#clipPath4828)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,563.95)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4832"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4830">536</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4834">
+        <g
+           id="g4836"
+           clip-path="url(#clipPath4840)">
+          <path
+             d="M 56.45,592.75 H 56.9 V 575.7 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4842" />
+          <path
+             d="M 56.95,592.75 H 137.4 V 591.8 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4844" />
+          <path
+             d="m 136.45,592.75 h 0.95 V 575.7 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4846" />
+          <path
+             d="M 136.45,592.75 H 227.4 V 591.8 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4848" />
+          <path
+             d="m 226.45,592.75 h 0.95 V 575.7 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4850" />
+          <path
+             d="m 226.45,592.75 h 55.7 v -0.95 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4852" />
+          <path
+             d="m 282.2,592.75 h 0.45 V 575.7 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4854" />
+        </g>
+      </g>
+      <g
+         id="g4856">
+        <g
+           id="g4858"
+           clip-path="url(#clipPath4862)">
+          <text
+             transform="matrix(1,0,0,-1,141.95,547.85)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4866"><tspan
+               x="0 12 24 36"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4864">学前教育</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4868">
+        <g
+           id="g4870"
+           clip-path="url(#clipPath4874)" />
+      </g>
+      <g
+         id="g4876">
+        <g
+           id="g4878"
+           clip-path="url(#clipPath4882)">
+          <text
+             transform="matrix(1,0,0,-1,189.95,547.85)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4886"><tspan
+               x="0"
+               y="0"
+               id="tspan4884">(</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4888">
+        <g
+           id="g4890"
+           clip-path="url(#clipPath4894)" />
+      </g>
+      <g
+         id="g4896">
+        <g
+           id="g4898"
+           clip-path="url(#clipPath4902)">
+          <text
+             transform="matrix(1,0,0,-1,193.95,547.85)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4906"><tspan
+               x="0 12"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4904">师范</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4908">
+        <g
+           id="g4910"
+           clip-path="url(#clipPath4914)" />
+      </g>
+      <g
+         id="g4916">
+        <g
+           id="g4918"
+           clip-path="url(#clipPath4922)">
+          <text
+             transform="matrix(1,0,0,-1,217.95,547.85)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4926"><tspan
+               x="0"
+               y="0"
+               id="tspan4924">)</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4928">
+        <g
+           id="g4930"
+           clip-path="url(#clipPath4934)" />
+      </g>
+      <g
+         id="g4936">
+        <g
+           id="g4938"
+           clip-path="url(#clipPath4942)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,547.85)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4946"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4944">536</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4948">
+        <g
+           id="g4950"
+           clip-path="url(#clipPath4954)">
+          <path
+             d="M 56.45,576.65 H 56.9 V 559.6 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4956" />
+          <path
+             d="M 56.95,576.65 H 137.4 V 575.7 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4958" />
+          <path
+             d="m 136.45,576.65 h 0.95 V 559.6 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4960" />
+          <path
+             d="M 136.45,576.65 H 227.4 V 575.7 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4962" />
+          <path
+             d="m 226.45,576.65 h 0.95 V 559.6 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4964" />
+          <path
+             d="m 226.45,576.65 h 55.7 v -0.95 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4966" />
+          <path
+             d="m 282.2,576.65 h 0.45 V 559.6 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4968" />
+        </g>
+      </g>
+      <g
+         id="g4970">
+        <g
+           id="g4972"
+           clip-path="url(#clipPath4976)">
+          <text
+             transform="matrix(1,0,0,-1,163.95,531.75)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4980"><tspan
+               x="0 12 24"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4978">新闻学</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4982">
+        <g
+           id="g4984"
+           clip-path="url(#clipPath4988)" />
+      </g>
+      <g
+         id="g4990">
+        <g
+           id="g4992"
+           clip-path="url(#clipPath4996)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,531.75)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5000"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4998">534</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5002">
+        <g
+           id="g5004"
+           clip-path="url(#clipPath5008)">
+          <path
+             d="M 56.45,560.55 H 56.9 V 543.5 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5010" />
+          <path
+             d="M 56.95,560.55 H 137.4 V 559.6 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5012" />
+          <path
+             d="m 136.45,560.55 h 0.95 V 543.5 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5014" />
+          <path
+             d="M 136.45,560.55 H 227.4 V 559.6 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5016" />
+          <path
+             d="m 226.45,560.55 h 0.95 V 543.5 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5018" />
+          <path
+             d="m 226.45,560.55 h 55.7 v -0.95 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5020" />
+          <path
+             d="m 282.2,560.55 h 0.45 V 543.5 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5022" />
+        </g>
+      </g>
+      <g
+         id="g5024">
+        <g
+           id="g5026"
+           clip-path="url(#clipPath5030)">
+          <text
+             transform="matrix(1,0,0,-1,169.95,515.65)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5034"><tspan
+               x="0 12"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5032">日语</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5036">
+        <g
+           id="g5038"
+           clip-path="url(#clipPath5042)" />
+      </g>
+      <g
+         id="g5044">
+        <g
+           id="g5046"
+           clip-path="url(#clipPath5050)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,515.65)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5054"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5052">533</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5056">
+        <g
+           id="g5058"
+           clip-path="url(#clipPath5062)">
+          <path
+             d="M 56.45,544.45 H 56.9 V 527.4 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5064" />
+          <path
+             d="M 56.95,544.45 H 137.4 V 543.5 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5066" />
+          <path
+             d="m 136.45,544.45 h 0.95 V 527.4 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5068" />
+          <path
+             d="M 136.45,544.45 H 227.4 V 543.5 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5070" />
+          <path
+             d="m 226.45,544.45 h 0.95 V 527.4 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5072" />
+          <path
+             d="m 226.45,544.45 h 55.7 v -0.95 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5074" />
+          <path
+             d="m 282.2,544.45 h 0.45 V 527.4 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5076" />
+        </g>
+      </g>
+      <g
+         id="g5078">
+        <g
+           id="g5080"
+           clip-path="url(#clipPath5084)">
+          <text
+             transform="matrix(1,0,0,-1,157.95,499.55)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5088"><tspan
+               x="0 12 24 36"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5086">物流管理</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5090">
+        <g
+           id="g5092"
+           clip-path="url(#clipPath5096)" />
+      </g>
+      <g
+         id="g5098">
+        <g
+           id="g5100"
+           clip-path="url(#clipPath5104)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,499.55)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5108"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5106">532</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5110">
+        <g
+           id="g5112"
+           clip-path="url(#clipPath5116)">
+          <path
+             d="M 56.45,528.35 H 56.9 V 511.3 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5118" />
+          <path
+             d="M 56.95,528.35 H 137.4 V 527.4 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5120" />
+          <path
+             d="m 136.45,528.35 h 0.95 V 511.3 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5122" />
+          <path
+             d="M 136.45,528.35 H 227.4 V 527.4 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5124" />
+          <path
+             d="m 226.45,528.35 h 0.95 V 511.3 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5126" />
+          <path
+             d="m 226.45,528.35 h 55.7 v -0.95 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5128" />
+          <path
+             d="m 282.2,528.35 h 0.45 V 511.3 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5130" />
+        </g>
+      </g>
+      <g
+         id="g5132">
+        <g
+           id="g5134"
+           clip-path="url(#clipPath5138)">
+          <text
+             transform="matrix(1,0,0,-1,169.95,483.45)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5142"><tspan
+               x="0 12"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5140">法语</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5144">
+        <g
+           id="g5146"
+           clip-path="url(#clipPath5150)" />
+      </g>
+      <g
+         id="g5152">
+        <g
+           id="g5154"
+           clip-path="url(#clipPath5158)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,483.45)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5162"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5160">531</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5164">
+        <g
+           id="g5166"
+           clip-path="url(#clipPath5170)">
+          <path
+             d="M 56.45,512.25 H 56.9 V 495.2 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5172" />
+          <path
+             d="M 56.95,512.25 H 137.4 V 511.3 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5174" />
+          <path
+             d="m 136.45,512.25 h 0.95 V 495.2 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5176" />
+          <path
+             d="M 136.45,512.25 H 227.4 V 511.3 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5178" />
+          <path
+             d="m 226.45,512.25 h 0.95 V 495.2 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5180" />
+          <path
+             d="m 226.45,512.25 h 55.7 v -0.95 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5182" />
+          <path
+             d="m 282.2,512.25 h 0.45 V 495.2 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5184" />
+        </g>
+      </g>
+      <g
+         id="g5186">
+        <g
+           id="g5188"
+           clip-path="url(#clipPath5192)">
+          <text
+             transform="matrix(1,0,0,-1,157.95,467.35)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5196"><tspan
+               x="0 12 24 36"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5194">市场营销</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5198">
+        <g
+           id="g5200"
+           clip-path="url(#clipPath5204)" />
+      </g>
+      <g
+         id="g5206">
+        <g
+           id="g5208"
+           clip-path="url(#clipPath5212)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,467.35)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5216"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5214">526</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5218">
+        <g
+           id="g5220"
+           clip-path="url(#clipPath5224)">
+          <path
+             d="M 56.45,496.15 H 56.9 V 479.1 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5226" />
+          <path
+             d="M 56.95,496.15 H 137.4 V 495.2 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5228" />
+          <path
+             d="m 136.45,496.15 h 0.95 V 479.1 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5230" />
+          <path
+             d="M 136.45,496.15 H 227.4 V 495.2 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5232" />
+          <path
+             d="m 226.45,496.15 h 0.95 V 479.1 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5234" />
+          <path
+             d="m 226.45,496.15 h 55.7 v -0.95 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5236" />
+          <path
+             d="m 282.2,496.15 h 0.45 V 479.1 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5238" />
+        </g>
+      </g>
+      <g
+         id="g5240">
+        <g
+           id="g5242"
+           clip-path="url(#clipPath5246)">
+          <text
+             transform="matrix(1,0,0,-1,157.95,451.25)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5250"><tspan
+               x="0 12 24 36"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5248">旅游管理</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5252">
+        <g
+           id="g5254"
+           clip-path="url(#clipPath5258)" />
+      </g>
+      <g
+         id="g5260">
+        <g
+           id="g5262"
+           clip-path="url(#clipPath5266)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,451.25)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5270"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5268">519</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5272">
+        <g
+           id="g5274"
+           clip-path="url(#clipPath5278)">
+          <path
+             d="M 56.45,480.05 H 56.9 V 463 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5280" />
+          <path
+             d="M 56.95,480.05 H 137.4 V 479.1 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5282" />
+          <path
+             d="m 136.45,480.05 h 0.95 V 463 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5284" />
+          <path
+             d="M 136.45,480.05 H 227.4 V 479.1 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5286" />
+          <path
+             d="m 226.45,480.05 h 0.95 V 463 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5288" />
+          <path
+             d="m 226.45,480.05 h 55.7 v -0.95 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5290" />
+          <path
+             d="m 282.2,480.05 h 0.45 V 463 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5292" />
+        </g>
+      </g>
+      <g
+         id="g5294">
+        <g
+           id="g5296"
+           clip-path="url(#clipPath5300)">
+          <text
+             transform="matrix(1,0,0,-1,163.95,435.15)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5304"><tspan
+               x="0 12 24"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5302">会计学</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5306">
+        <g
+           id="g5308"
+           clip-path="url(#clipPath5312)" />
+      </g>
+      <g
+         id="g5314">
+        <g
+           id="g5316"
+           clip-path="url(#clipPath5320)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,435.15)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5324"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5322">510</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5326">
+        <g
+           id="g5328"
+           clip-path="url(#clipPath5332)">
+          <path
+             d="M 56.45,463.95 H 56.9 V 446.9 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5334" />
+          <path
+             d="M 56.95,463.95 H 137.4 V 463 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5336" />
+          <path
+             d="m 136.45,463.95 h 0.95 V 446.9 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5338" />
+          <path
+             d="M 136.45,463.95 H 227.4 V 463 h -90.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5340" />
+          <path
+             d="m 226.45,463.95 h 0.95 V 446.9 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5342" />
+          <path
+             d="m 226.45,463.95 h 55.7 V 463 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5344" />
+          <path
+             d="m 282.2,463.95 h 0.45 V 446.9 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5346" />
+        </g>
+      </g>
+      <g
+         id="g5348">
+        <g
+           id="g5350"
+           clip-path="url(#clipPath5354)">
+          <text
+             transform="matrix(1,0,0,-1,163.95,419.05)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5358"><tspan
+               x="0 12 24"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5356">金融学</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5360">
+        <g
+           id="g5362"
+           clip-path="url(#clipPath5366)" />
+      </g>
+      <g
+         id="g5368">
+        <g
+           id="g5370"
+           clip-path="url(#clipPath5374)">
+          <text
+             transform="matrix(1,0,0,-1,244.7,419.05)"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5378"><tspan
+               x="0 6.6500001 13.3"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5376">507</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5380">
+        <g
+           id="g5382"
+           clip-path="url(#clipPath5386)">
+          <path
+             d="M 56.45,447.85 H 56.9 V 430.8 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5388" />
+          <path
+             d="M 56.95,447.85 H 137.4 V 446.9 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5390" />
+          <path
+             d="m 136.45,447.85 h 0.95 V 430.8 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5392" />
+          <path
+             d="M 136.45,447.85 H 227.4 V 446.9 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5394" />
+          <path
+             d="m 226.45,447.85 h 0.95 V 430.8 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5396" />
+          <path
+             d="m 226.45,447.85 h 55.7 v -0.95 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5398" />
+          <path
+             d="m 282.2,447.85 h 0.45 V 430.8 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5400" />
+          <path
+             d="M 56.45,431.75 H 56.9 V 415.1 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5402" />
+          <path
+             d="M 56.95,431.75 H 137.4 V 430.8 H 56.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5404" />
+          <path
+             d="M 56.45,415.55 H 137.4 V 415.1 H 56.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5406" />
+          <path
+             d="m 136.45,431.75 h 0.95 V 415.6 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5408" />
+          <path
+             d="M 136.45,431.75 H 227.4 V 430.8 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5410" />
+          <path
+             d="M 136.45,415.55 H 227.4 V 415.1 H 136.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5412" />
+          <path
+             d="m 226.45,431.75 h 0.95 V 415.6 h -0.95"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5414" />
+          <path
+             d="m 226.45,431.75 h 55.7 v -0.95 h -55.7"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5416" />
+          <path
+             d="m 282.2,431.75 h 0.45 V 415.1 h -0.45"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5418" />
+          <path
+             d="m 226.45,415.55 h 56.2 v -0.45 h -56.2"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path5420" />
+        </g>
+      </g>
+      <g
+         id="g5422" />
+    </g>
+  </g>
+</svg>
